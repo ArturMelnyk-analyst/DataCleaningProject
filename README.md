@@ -1,16 +1,20 @@
 Data Cleaning Project
+
 Overview
-This repository contains the Data Cleaning Project, focusing on healthcare data. It is organized into two branches:
+This repository contains the Data Cleaning Project, focusing on healthcare data (https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis). It is organized into two branches:
 
 Main - Contains the data cleaning process and documentation.
 Dataset-files - Contains the original dataset.
+
 Contents
+
 Main Branch
 Healthcare Data Cleaning.ipynb: A Jupyter Notebook detailing the data cleaning process with code, explanations, and visualizations.
 Technical Documentation.pdf: A detailed explanation of the data cleaning steps performed.
 
 Dataset-files Branch
 Original dataset files used in the project.
+
 Getting Started
 Clone the repository:
 git clone https://github.com/ArturMelnyk-analyst/DataCleaningProject.git
